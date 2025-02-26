@@ -1,0 +1,11 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid rgb(46, 46, 46); 
+    align-content: space-evenly;
+    margin-left: 40%;
+}
+
+.numb {
+
+}
